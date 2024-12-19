@@ -20,19 +20,25 @@ This mobile application provides essential features such as user authentication 
 Add screenshots of each page below:
 
 ### 1. Splash Screen
-![Splash Screen]("finalprojectflutter/about me.png")
+![Splash Screen](https://github.com/Rifki2002/finalprojectflutter/blob/main/finalprojectflutter/splash.png)
 
 ### 2. Login Page
-![Login Page](path/to/login_page.png)
+![Login Page](https://github.com/Rifki2002/finalprojectflutter/blob/main/finalprojectflutter/Login.png)
 
 ### 3. Registration Page
-![Registration Page](path/to/registration_page.png)
+![Registration Page](https://github.com/Rifki2002/finalprojectflutter/blob/main/finalprojectflutter/register.png)
 
-### 4. Home Page (API Data)
-![Home Page](path/to/home_page.png)
+### 4. Home Page 
+![Home Page](https://github.com/Rifki2002/finalprojectflutter/blob/main/finalprojectflutter/home.png)
 
-### 5. Logout
-![Logout Screen](path/to/logout_screen.png)
+### 5. News Page
+![Logout Screen](https://github.com/Rifki2002/finalprojectflutter/blob/main/finalprojectflutter/news.png)
+
+### 6. Contact Page (API Data)
+![Logout Screen](https://github.com/Rifki2002/finalprojectflutter/blob/main/finalprojectflutter/contact.png)
+
+### 7. About Me Page
+![Logout Screen](https://github.com/Rifki2002/finalprojectflutter/blob/main/finalprojectflutter/about%20me.png)
 
 ## Installation
 Follow the steps below to set up and run the application:
@@ -61,29 +67,6 @@ Follow the steps below to set up and run the application:
    ```bash
    flutter run
    ```
-
-## Folder Structure
-```
-lib/
-|-- main.dart
-|-- bindings/
-|   |-- app_bindings.dart
-|-- controllers/
-|   |-- auth_controller.dart
-|   |-- api_controller.dart
-|-- models/
-|   |-- user_model.dart
-|-- screens/
-|   |-- splash_screen.dart
-|   |-- login_screen.dart
-|   |-- registration_screen.dart
-|   |-- home_screen.dart
-|-- services/
-|   |-- api_service.dart
-|   |-- firebase_service.dart
-|-- widgets/
-|   |-- common_widgets.dart
-```
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
